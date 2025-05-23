@@ -83,5 +83,5 @@ gcc run.c -o run
 
 ## Author
 
-Developed by [Your Name]  
+Developed by Abhishek Kumar Sharma 
 For queries or contributions, feel free to raise issues or fork the repo.
